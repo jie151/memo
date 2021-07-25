@@ -1,0 +1,11 @@
+input {
+    
+    margin: 15px;
+    border-radius: 8px;
+    border-width: 3px;
+}
+#input-addTodo{
+    margin: 15px;
+    border:4px rgb(106, 171, 245) solid;
+    border-radius: 8px;
+}
